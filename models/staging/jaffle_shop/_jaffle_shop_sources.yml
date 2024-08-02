@@ -1,7 +1,9 @@
 version: 2
 
 sources:
-  - name: jaffle_shop  
+  - name: jaffle_shop
+    description: A clone of a Postgres application database.
+     
     schema: default  
     tables:
       - name: jaffle_shop_orders
