@@ -6,3 +6,6 @@ sources:
     tables:
       - name: jaffle_shop_orders
       - name: jaffle_shop_customers
+  - name: stripe
+    tables:
+      - name: stripe_payments
